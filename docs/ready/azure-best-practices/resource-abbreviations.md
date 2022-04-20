@@ -112,16 +112,16 @@ This list provides recommended abbreviations for various Azure resource types to
 |--|--|--|
 | Azure Cosmos DB database | `Microsoft.DocumentDB/databaseAccounts/sqlDatabases` | `cosmos-` |
 | Azure Cache for Redis instance | `Microsoft.Cache/Redis` | `redis-` |
-| Azure SQL Database server | `Microsoft.Sql/servers` | `sql-` |
-| Azure SQL database | `Microsoft.Sql/servers/databases` | `sqldb-` |
+| Azure SQL Database server | `Microsoft.Sql/servers` | `sqldbsrv` |
+| Azure SQL database | `Microsoft.Sql/servers/databases` | `sqldb` |
 | Azure Synapse Analytics | `Microsoft.Synapse/workspaces` | `syn` |
 | Azure Synapse Analytics Workspaces | `Microsoft.Synapse/workspaces` | `synw` |
 | Azure Synapse Analytics SQL Dedicated Pool | `Microsoft.Synapse/workspaces/sqlPools` | `syndp` |
 | Azure Synapse Analytics Spark Pool | `Microsoft.Synapse/workspaces/sqlPools` | `synsp` |
-| MySQL database | `Microsoft.DBforMySQL/servers` | `mysql-` |
-| PostgreSQL database | `Microsoft.DBforPostgreSQL/servers` | `psql-` |
-| SQL Server Stretch Database | `Microsoft.Sql/servers/databases` | `sqlstrdb-` |
-| SQL Managed Instance | `Microsoft.Sql/managedInstances` | `sqlmi-` |
+| MySQL database | `Microsoft.DBforMySQL/servers` | `mysqldb` |
+| PostgreSQL database | `Microsoft.DBforPostgreSQL/servers` | `psqldb` |
+| SQL Server Stretch Database | `Microsoft.Sql/servers/databases` | `sqlstrdb` |
+| SQL Managed Instance | `Microsoft.Sql/managedInstances` | `sqlmi` |
 
 ## Storage
 
